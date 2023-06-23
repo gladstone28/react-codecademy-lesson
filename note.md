@@ -1,7 +1,7 @@
 
 # CODECADEMY LESSON: COMPONENTS RENDER OTHER COMPONENTS
 
-(https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/component-return-another)
+https://www.codecademy.com/courses/react-101/lessons/components-render-each-other/exercises/component-return-another
 
 ##Returning Another Component
 
@@ -38,7 +38,8 @@ function ItemBox() {
 
 In the above example, ItemBox returns an instance of PurchaseButton. This is an example of how a component can reference other components!
 
-Instructions for this App
+## Instructions for this App
+
 View Profile.js and observe how the Picture component is referenced inside of the Profile component. Picture is responsible for a piece of Profile.
 
 Together, we exported only the Profile component to be rendered.
